@@ -1,0 +1,18 @@
+[
+  {
+    "package": "harlem",
+    "url": "https://github.com/sdhutchins/harlem"
+  },
+  {
+    "package": "pkgmkr",
+    "url": "https://github.com/sdhutchins/pkgmkr"
+  },
+  {
+    "package": "documenteR",
+    "url": "https://github.com/sdhutchins/documenteR"
+  },
+  {
+    "package": "victortools",
+    "url": "https://github.com/sdhutchins/victortools"
+  }
+]
