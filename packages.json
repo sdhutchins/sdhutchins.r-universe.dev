@@ -14,5 +14,13 @@
   {
     "package": "victortools",
     "url": "https://github.com/sdhutchins/victortools"
-  }
+  },
+  {
+    "package": "JournalAnalysis",
+    "url": "https://github.com/vallenderlab/JournalAnalysis"
+  },
+  {
+    "package": "MicrobiomeR",
+    "url": "https://github.com/vallenderlab/MicrobiomeR"
+    }
 ]
