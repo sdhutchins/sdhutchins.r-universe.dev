@@ -22,5 +22,13 @@
   {
     "package": "MicrobiomeR",
     "url": "https://github.com/vallenderlab/MicrobiomeR"
-    }
+    },
+  {
+    "package": "grateful",
+    "url": "https://github.com/Pakillo/grateful"
+  },
+  {
+    "package": "BioThingsClient.R",
+    "url": "https://github.com/biothings/BioThingsClient.R"
+   }
 ]
